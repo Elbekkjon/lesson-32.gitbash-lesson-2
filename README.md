@@ -1,2 +1,2 @@
-# lesson-32.gitbash-lesson-2
+# Elbekjon Esanboyev
 webSite-domain: https://elbekkjon.github.io/lesson-32.gitbash-lesson-2/
